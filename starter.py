@@ -1,3 +1,9 @@
+
+"""
+The following python module has important libraries that I use in my analysis
+"""
+
+
 import warnings
 warnings.filterwarnings('ignore')
 import pandas as pd
